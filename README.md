@@ -1,4 +1,4 @@
-## ReScience project
+## Code and data related to Lamichhane et al. (2003)
 
 This is my original project directory with all results for the paper:
 
@@ -14,3 +14,6 @@ I'm working to try to reproduce the results for the [ReScience Ten
 Years Reproducibility
 Challenge](http://rescience.github.io/ten-years). The current
 repository is a snapshot of my project files as I had left them.
+
+The only changes I've made to this project directory were to add the
+present README and to add a [LICENSE](LICENSE.md) file.
